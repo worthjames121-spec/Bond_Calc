@@ -153,4 +153,4 @@ with st.expander("See period-by-period cash flows"):
         })
 
     table = pd.DataFrame(rows)
-    st.dataframe(table, hide_index=
+    st.dataframe(table, hide_index=)
